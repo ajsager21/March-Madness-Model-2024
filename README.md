@@ -1,0 +1,1 @@
+This code and data are hand-picked statistics for the 2023-2024 NCAA Division 1 Men's Basketball season. I compiled all the data on a CSV file in Excel and read it with Python. I then created a win probability function for each team in Division 1 Men's Basketball and thei likelihood to beat each individual team given that teams opposing statistics.
